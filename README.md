@@ -9,3 +9,9 @@ Database editing tool for [Space Rangers HD](https://store.steampowered.com/app/
 </div>
 
 ### Current features:
+* Opening / editing / saving `.dat` files of all game versions
+* Converting a `.dat` file to `.txt` format and vice versa
+* Working with an exported `.txt` file as a `.dat` file
+* Adding individual sections from `.dat` / `.txt` files
+* Sorting parameters
+* Working via CLI
