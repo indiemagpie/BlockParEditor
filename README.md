@@ -13,7 +13,7 @@ Database editor for [Space Rangers HD](https://store.steampowered.com/app/214730
 * Converting a `.dat` file to `.txt` format and vice versa
 * Working with an exported `.txt` file as a `.dat` file
 * Adding individual sections from `.dat` / `.txt` files
-* Full unicode support
+* Full unicode support (UTF8 & UTF16)
 * Search by title
 * Sorting parameters
 * Working via CLI
